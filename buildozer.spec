@@ -1,4 +1,3 @@
-
 [app]
 title = NotesApp
 package.name = NotesApp
